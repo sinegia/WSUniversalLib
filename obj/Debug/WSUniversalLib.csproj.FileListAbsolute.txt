@@ -1,0 +1,12 @@
+C:\Users\stud\Desktop\УП\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+C:\Users\stud\Desktop\УП\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+C:\Users\stud\Desktop\УП\WSUniversalLib\obj\Debug\WSUniversalLib.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\УП\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\УП\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+C:\Users\stud\Desktop\УП\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
+C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-master\bin\Debug\WSUniversalLib.dll
+C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-master\bin\Debug\WSUniversalLib.pdb
+C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-master\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-master\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-master\obj\Debug\WSUniversalLib.dll
+C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-master\obj\Debug\WSUniversalLib.pdb
