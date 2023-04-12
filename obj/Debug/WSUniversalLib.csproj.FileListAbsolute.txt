@@ -10,3 +10,9 @@ C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-m
 C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-master\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
 C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-master\obj\Debug\WSUniversalLib.dll
 C:\Users\Ростислав\Downloads\Practik01Testing-master\Practik01Testing-master\obj\Debug\WSUniversalLib.pdb
+C:\Users\Ростислав\source\repos\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+C:\Users\Ростислав\source\repos\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+C:\Users\Ростислав\source\repos\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Users\Ростислав\source\repos\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\Ростислав\source\repos\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+C:\Users\Ростислав\source\repos\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
