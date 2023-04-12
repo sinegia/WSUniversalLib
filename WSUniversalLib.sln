@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalLib", "WSUniversalLib.csproj", "{C1D395E9-EAC8-464D-B715-D6DDFE1E012B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalLib.Tests", "..\UnitTest\WSUniversalLib.Tests.csproj", "{9ADBCFBD-B423-48B7-A29A-ECB0BFA8B888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSUniversalLib.Tests", "..\UnitTest\WSUniversalLib.Tests.csproj", "{9ADBCFBD-B423-48B7-A29A-ECB0BFA8B888}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WSUniversalLibTests", "WSUniversalLibTests", "{436A707D-0A3F-44A4-8E34-98EBFE7038DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +26,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9ADBCFBD-B423-48B7-A29A-ECB0BFA8B888} = {436A707D-0A3F-44A4-8E34-98EBFE7038DA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FAB69ABD-2761-420C-8C38-914C7BE6036E}
